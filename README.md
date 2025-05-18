@@ -4,9 +4,14 @@
 
 I'm Lucas da Silva Nascimento, a 21-year-old Computer Science student at ULBRA Palmas with a strong passion for programming logic and game development. I enjoy solving problems, learning new technologies, and building creative solutions through code. In my free time, I explore my artistic side by creating pixel art, which you can find on my Instagram [@lunastik_art](https://www.instagram.com/lunastik_art/).
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) 
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/lukas_nascky)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukasnascky/)
+
 ---
 
 ## My Stack💻
+
 <p>
   <img
     align="left"
@@ -74,13 +79,7 @@ I'm Lucas da Silva Nascimento, a 21-year-old Computer Science student at ULBRA P
 
 <br/><br/>
 
-
 ## Stats📈
 
----
-
-## Contacts📳
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) 
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lukas_nascky)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukasnascky/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasnascky&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasnascky&layout=compact&theme=radical)
