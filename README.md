@@ -69,11 +69,29 @@ I'm Lucas da Silva Nascimento, a 21-year-old Computer Science student at ULBRA P
 
   <img
     align="left"
+    alt="VSCode"
+    title="VSCode"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+  />
+
+  <img
+    align="left"
     alt="Git"
     title="Git"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  />
+
+  <img
+    align="left"
+    alt="Figma"
+    title="Figma"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
   />
 </p>
 
@@ -84,4 +102,4 @@ I'm Lucas da Silva Nascimento, a 21-year-old Computer Science student at ULBRA P
 ## My Stats📈
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasnascky&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasnascky&layout=donut&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasnascky&theme=radical)
