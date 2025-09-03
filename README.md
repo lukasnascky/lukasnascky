@@ -110,5 +110,7 @@ I'm Lucas da Silva Nascimento, a 21-year-old Computer Science student at ULBRA P
 
 ## My Stats📈
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasnascky&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasnascky&theme=radical)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=lukasnascky&show_icons=true&theme=radical" alt="LukasNascky's GitHub Stats" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasnascky&theme=radical" alt="Top Langs" width="22%">
+</div>
