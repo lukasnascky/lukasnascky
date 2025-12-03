@@ -51,6 +51,33 @@ I'm Lucas da Silva Nascimento, a 22-year-old Computer Science student at ULBRA P
 
   <img
     align="left"
+    alt="React"
+    title="React"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+  />
+
+  <img
+    align="left"
+    alt="Express"
+    title="Express"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+  />
+
+  <img
+    align="left"
+    alt="SQLite"
+    title="SQLite"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
+  />
+
+  <img
+    align="left"
     alt="Java"
     title="Java"
     width="30px"
