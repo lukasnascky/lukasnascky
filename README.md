@@ -12,7 +12,7 @@ I'm Lucas da Silva Nascimento, a 22-year-old Computer Science student at ULBRA P
 
 ## My Stack💻
 
-<p>
+<div>
   <img
     align="left"
     alt="HTML"
@@ -102,15 +102,4 @@ I'm Lucas da Silva Nascimento, a 22-year-old Computer Science student at ULBRA P
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
   />
-</p>
-
-<br/><br/>
-
----
-
-## My Stats📈
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukasnascky&show_icons=true&theme=radical&rank_icon=github" alt="LukasNascky's GitHub Stats" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasnascky&theme=radical&layout=compact&langs_count=6" alt="Top Langs" width="38%">
 </div>
