@@ -96,15 +96,6 @@ I'm Lucas da Silva Nascimento, a 22-year-old Computer Science student at ULBRA P
 
   <img
     align="left"
-    alt="C#"
-    title="C#"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-  />
-
-  <img
-    align="left"
     alt="VSCode"
     title="VSCode"
     width="30px"
