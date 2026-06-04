@@ -7,6 +7,7 @@ I'm Lucas da Silva Nascimento, a 22-year-old Computer Science student at ULBRA P
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/lukas_nascky)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukasnascky/)
+<br>
 
 ---
 
@@ -130,3 +131,8 @@ I'm Lucas da Silva Nascimento, a 22-year-old Computer Science student at ULBRA P
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
   />
 </div>
+<br>
+
+---
+
+## Metrics
