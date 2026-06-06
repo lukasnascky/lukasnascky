@@ -136,3 +136,5 @@ I'm Lucas da Silva Nascimento, a 22-year-old Computer Science student at ULBRA P
 ---
 
 ## Metrics
+
+![Metrics](./assets/metrics.svg)
