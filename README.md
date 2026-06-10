@@ -6,8 +6,6 @@
 I'm Lucas da Silva Nascimento, a 22-year-old Computer Science student at ULBRA Palmas with a strong passion for programming logic and game development. I enjoy solving problems, learning new technologies, and building creative solutions through code. In my free time, I explore my artistic side by creating pixel art, which you can find on my Instagram: <a href="https://www.instagram.com/lunastik_art/">@lunastik_art</a>.
 </div>
 
-
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/lukas_nascky)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukasnascky/)
