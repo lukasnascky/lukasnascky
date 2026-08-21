@@ -29,7 +29,3 @@ I'm Lucas da Silva Nascimento, a 22-year-old Computer Science student at ULBRA P
 <img alt="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
 </div>
-
-## 📊 Metrics
-
-![Metrics](./assets/metrics.svg)
